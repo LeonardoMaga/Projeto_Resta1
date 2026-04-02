@@ -20,7 +20,6 @@ char tabuleiro[9][10] = {
     "#########"
 };
 
-// Vetor tridimensional que guarda a sequencia de movimentos que leva à solução
 char solucao[31][9][10];
 
 // Variável que mostra ao utilizador que o programa não bloqueou
